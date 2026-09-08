@@ -1,4 +1,4 @@
-<p align="center"> <img src="./assets/logo.png" alt="ANTAR Logo" width="200"/> </p>
+<p align="center"> <img src="./logo.png" alt="ANTAR Logo" width="200"/> </p>
 
 # ANTAR — Authoritative Node | Trusted Autonomous Residence
 
