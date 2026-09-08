@@ -1,6 +1,6 @@
 <p align="center"> <img src="./logo.png" alt="ANTAR Logo" width="200"/> </p>
 
-# ANTAR — Authoritative Node | Trusted Autonomous Residence
+# AN|TAR. — Authoritative Node | Trusted Autonomous Residence
 
 **A local-first, edge-intelligent smart residence platform for privacy-preserving automation and distributed control.**
 
