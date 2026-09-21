@@ -82,3 +82,12 @@ Beyond residential infrastructure, this reference architecture is designed to sc
 ---
 
 *Empowering users with deterministic control and uncompromised privacy.*
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANTAR-Project&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ANTAR-Project" /></p>
+
+![ANTAR-Project's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANTAR-Project&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANTAR-Project&theme=tokyonight" alt="ANTAR-Project" /></p>
+
